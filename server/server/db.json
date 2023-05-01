@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "BMV X1",
+      "price": 26789,
+      "image": "bmw.jpg"
+    },
+    {
+      "id": "2",
+      "name": "FerrariS",
+      "price": 47590,
+      "image": "Ferrari.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bugati Veiron",
+      "price": 24858,
+      "img": "bugatti.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mersedes",
+      "price": 24858,
+      "image": "/images/mersedes.jpg "
+    },
+    {
+      "id": 5,
+      "name": "Nissan",
+      "price": 24858,
+      "image": "./images/nissan.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Opel",
+      "price": 2858,
+      "image": "/image/opel.jpeg"
+    }
+  ]
+}

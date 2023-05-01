@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34b60363-da8b-4bd2-90e8-685f746a8911" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/assets/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/assets/styles/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/cars.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/cars.data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/create-card-forms/CreateCardForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/create-card-forms/CreateCardForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/create-card-forms/create-card-form.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/create-card-forms/create-card-form.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/dev/previews.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/dev/previews.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PCNY9J3dqQw9lOilZQq2dV3BlQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ivan/git/react_practic/server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34b60363-da8b-4bd2-90e8-685f746a8911" name="Changes" comment="" />
+      <created>1682957148980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682957148980</updated>
+      <workItem from="1682957149993" duration="2680000" />
+      <workItem from="1682961797322" duration="126000" />
+      <workItem from="1682961935580" duration="443000" />
+      <workItem from="1682964310916" duration="591000" />
+      <workItem from="1682964911226" duration="89000" />
+      <workItem from="1682965026866" duration="348000" />
+      <workItem from="1682965395778" duration="906000" />
+      <workItem from="1682966318827" duration="399000" />
+      <workItem from="1682966729248" duration="5320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
