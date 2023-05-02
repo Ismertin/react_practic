@@ -1,4 +1,4 @@
-export const cars = [
+const cars = [
     {
     id: 1,
     name: "Toyota Camry",
@@ -9,7 +9,7 @@ export const cars = [
     id: 2,
     name: "TypoPatchanciyApparat",
     price: 1000000,
-    image: "/Uaz.png"
+    image: "/bmw.jpg"
     },
     {
         id: 3,
@@ -17,11 +17,16 @@ export const cars = [
         price: 3288,
         image: "/honda.jpg"
     },
-    
+    {
+        id: 4,
+        name: "bmw x5",
+        price: 1500,
+        image: "/bmw.jpg"
+    },
     {
         id: 5,
         name: "bmw x7",
         price: 15005,
-        image: "/image1.jpg"
+        image: "/bmw.jpg"
     }
 ]

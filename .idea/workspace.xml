@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34b60363-da8b-4bd2-90e8-685f746a8911" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/assets/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/assets/styles/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/cars.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/cars.data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/create-card-forms/CreateCardForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/create-card-forms/CreateCardForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/create-card-forms/create-card-form.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/create-card-forms/create-card-form.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/dev/previews.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/dev/previews.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/yarn.lock" afterDir="false" />
+    <list default="true" id="34b60363-da8b-4bd2-90e8-685f746a8911" name="Changes" comment="05.02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,24 +24,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/ivan/git/react_practic/server",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ivan/git/react_practic/server/db.json&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -73,10 +67,35 @@
       <workItem from="1682965395778" duration="906000" />
       <workItem from="1682966318827" duration="399000" />
       <workItem from="1682966729248" duration="5320000" />
+      <workItem from="1682976653888" duration="1570000" />
+      <workItem from="1683048978945" duration="638000" />
     </task>
+    <task id="LOCAL-00001" summary="05.02">
+      <created>1682976686487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682976686487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="05.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="05.02" />
   </component>
 </project>

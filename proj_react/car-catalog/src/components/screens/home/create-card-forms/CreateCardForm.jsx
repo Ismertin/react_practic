@@ -12,7 +12,7 @@ const CreateCardForm = ({setCars}) => {
     const createCar = (e) => {
         e.preventDefault()
 
-        setCars(prev => [{id : prev.length + 1, ...data} ,...prev,
+        setCars(prev => [...prev, {id : prev.length + 1, ...data} ,
         ])
         setData(ClearData)
     }

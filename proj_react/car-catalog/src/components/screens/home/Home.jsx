@@ -1,20 +1,12 @@
 import styles from  './Home.module.css'
+import {cars as carsData} from './cars.data.js'
 import CarItem from "./car-item/CarItem.jsx";
 import CreateCardForm from "./create-card-forms/CreateCardForm.jsx";
-import {useEffect, useState} from "react";
-import axios from "axios";
+import { useState} from "react";
 
 function Home() {
-    const [cars, setCars] = useState([])
-    useEffect(() => {
-        const fetchData = async () =>{
-            const response = await axios.get('http://localhost:3000/cars')
+    const [cars, setCars] = useState(carsData)
 
-            setCars(response.data)
-        }
-
-        fetchData()
-    }, [])
     return (
         <div className={styles.card}>
             <div className={styles.title}>

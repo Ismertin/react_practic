@@ -1,8 +1,11 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 import styles from "../Home.module.css";
 
-function CarItem({car}) {
+// eslint-disable-next-line react/prop-types
+function CarItem( {car }) {
     return (
+        // eslint-disable-next-line react/prop-types
         <div key={car.id} className={styles.item }>
             <div
                 className={styles.image}
@@ -17,7 +20,7 @@ function CarItem({car}) {
                     currency: 'USD',
                     currencyDisplay: 'narrowSymbol',
                 }).format(car.price)}</p>
-                <button>Read more</button>
+                <button className={styles.butn}>Read more</button>
             </div>
         </div>
     );
