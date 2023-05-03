@@ -3,7 +3,7 @@ import React from 'react';
 import styles from "../Home.module.css";
 
 // eslint-disable-next-line react/prop-types
-function CarItem( {car }) {
+function CarItem( {car}) {
     return (
         // eslint-disable-next-line react/prop-types
         <div key={car.id} className={styles.item }>

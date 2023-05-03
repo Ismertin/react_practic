@@ -1,19 +1,19 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import CarDetail from './screens/car-detail/CarDetail'
-import Home from './screens/home/Home'
+import {BrowserRouter, Route, Routes} from "react-router-dom";
+import Home from "./screens/home/Home.jsx";
+import CarDetail from "./screens/car-detail/CarDetail.jsx";
 
-const Router = () => {
-  return (
-    <BrowserRouter>
-        <Routes>
-            <Route element={<Home />} path='/' />
+const Roter = () => {
+    return (
+        <BrowserRouter>
+            <Routes>
+                <Route element={<Home/>} path='/' />
 
-            <Route  element={<CarDetail />} path='/car/:id' />
+                <Route element={<CarDetail/>} path='/car/:id' />
 
-            <Route path='*' element={<div> Not found</div>} />
-        </Routes>
-    </BrowserRouter>
-  )
+
+                <Route path={"*"} element={<div>No found</div>} />
+            </Routes>
+        </BrowserRouter>
+    )
 }
-
-export default Router
+export default Roter

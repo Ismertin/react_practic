@@ -1,26 +1,29 @@
 {
   "cars": [
     {
-      "id": 2,
-	  "name": "json-server",
-	  "price": 20516,
-      "image": "/honda.jpg"
-    },
-    {
-          "id": 2,
-    	  "name": "json-server",
-    	   "price": 20516,
-  	      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.caranddriver.com%2Fnews%2Fa42158278%2Fmclaren-artura-selling-collection-to-finance%2F&psig=AOvVaw2l1FZE8BxVfXaBGSOfTga1&ust=1683140451444000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiutPeo1_4CFQAAAAAdAAAAABAE"
-     }
-  ],
-  "comments": [
-    {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+	  "name": "honda",
+	  "price": 20516,
+      "image":"http://localhost:3000/honda.jpg"
+    },
+     {
+      "id": 2,
+	  "name": "Bmw-x7",
+	  "price": 20516,
+      "image": "http://localhost:3000/image1.jpg"
+    },
+     {
+      "id": 3,
+	  "name": "Tayota",
+	  "price": 20516,
+      "image": "http://localhost:3000/Toyota.webp"
+    },
+    
+     {
+      "id": 4,
+	  "name": "Uaz",
+	  "price": 20516,
+      "image": "http://localhost:3000/Uaz.png"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+   ]
+ }

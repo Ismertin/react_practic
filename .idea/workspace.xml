@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="34b60363-da8b-4bd2-90e8-685f746a8911" name="Changes" comment="05.02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/Router.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/Router.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/car-detail/CarDetail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/car-detail/CarDetail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/car-item/CarItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/components/screens/home/car-item/CarItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj_react/car-catalog/src/services/car.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/proj_react/car-catalog/src/services/car.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/server/db.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +75,11 @@
       <workItem from="1682966729248" duration="5320000" />
       <workItem from="1682976653888" duration="1570000" />
       <workItem from="1683048978945" duration="638000" />
+      <workItem from="1683142714996" duration="142000" />
+      <workItem from="1683142869424" duration="195000" />
+      <workItem from="1683143075277" duration="750000" />
+      <workItem from="1683143837389" duration="226000" />
+      <workItem from="1683144078606" duration="4181000" />
     </task>
     <task id="LOCAL-00001" summary="05.02">
       <created>1682976686487</created>
